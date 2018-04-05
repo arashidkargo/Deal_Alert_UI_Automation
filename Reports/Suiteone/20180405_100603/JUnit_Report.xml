@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Suiteone" time="45" tests="0" failures="1" errors="0">
+   <testsuite name="Suiteone" tests="0" failures="1" errors="0" time="45" timestamp="2018-04-05 10:06:09" hostname="AbdullahRashid - ip-10-6-226-147.ec2.internal" id="Test Suites/Suiteone">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/abdullahrashid/Katalon_Studio/Deal_Alert_UI_testing/Reports/Suiteone/20180405_100603"/>
+         <property name="logFiles" value="/Users/abdullahrashid/Katalon_Studio/Deal_Alert_UI_testing/Reports/Suiteone/20180405_100603/execution0.log"/>
+         <property name="attachments" value="/Users/abdullahrashid/Katalon_Studio/Deal_Alert_UI_testing/Reports/Suiteone/20180405_100603/1522937214247.png"/>
+         <property name="hostName" value="AbdullahRashid - ip-10-6-226-147.ec2.internal"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="5.3.1.1"/>
+         <property name="browser" value="Chrome 65.0.3325.181"/>
+         <property name="hostAddress" value="10.6.226.147"/>
+         <property name="sessionId" value="f3a834f5919b2b872f5ed4df92b7f8e5"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Testing_Alert_First_page" classname="Test Cases/Testing_Alert_First_page" status="FAILED">
+         <failure type="FAILED" message="Unable to set text 'kargoqa@gmail.com' of object 'Object Repository/Page_Kargo Login/input_username' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Kargo Login/input_username' located by 'By.xpath: //input[@name = 'username' and @type = 'text']' not found)"/>
+         <system-out><![CDATA[2018-04-05 10:06:11 - [TEST_CASE][FAILED] - Test Cases/Testing_Alert_First_page: Test Cases/Testing_Alert_First_page FAILED because (of) Unable to set text 'kargoqa@gmail.com' of object 'Object Repository/Page_Kargo Login/input_username' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Kargo Login/input_username' located by 'By.xpath: //input[@name = 'username' and @type = 'text']' not found)
+
+2018-04-05 10:06:12 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-04-05 10:06:18 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-04-05 10:06:18 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://sso.staging.prod.com/login?redirect_url=https:%2F%2Fdeal-alerts.prod.kargo.com' successfully
+
+2018-04-05 10:06:23 - [MESSAGE][PASSED] - Navigate to 'https://sso.staging.prod.com/login?redirect_url=https:%2F%2Fdeal-alerts.prod.kargo.com' successfully
+
+2018-04-05 10:06:23 - [TEST_STEP][FAILED] - setText: Unable to set text 'kargoqa@gmail.com' of object 'Object Repository/Page_Kargo Login/input_username' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Kargo Login/input_username' located by 'By.xpath: //input[@name = 'username' and @type = 'text']' not found)
+
+2018-04-05 10:06:54 - [MESSAGE][FAILED] - Unable to set text 'kargoqa@gmail.com' of object 'Object Repository/Page_Kargo Login/input_username' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Kargo Login/input_username' located by 'By.xpath: //input[@name = 'username' and @type = 'text']' not found)
+[[ATTACHMENT|/Users/abdullahrashid/Katalon_Studio/Deal_Alert_UI_testing/Reports/Suiteone/20180405_100603/1522937214247.png]]]]></system-out>
+         <system-err><![CDATA[2018-04-05 10:06:11 - [TEST_CASE][FAILED] - Test Cases/Testing_Alert_First_page: Test Cases/Testing_Alert_First_page FAILED because (of) Unable to set text 'kargoqa@gmail.com' of object 'Object Repository/Page_Kargo Login/input_username' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Kargo Login/input_username' located by 'By.xpath: //input[@name = 'username' and @type = 'text']' not found)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-04-05 10:06:09 - [TEST_SUITE][FAILED] - Suiteone: Test Cases/Testing_Alert_First_page FAILED because (of) Unable to set text 'kargoqa@gmail.com' of object 'Object Repository/Page_Kargo Login/input_username' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Kargo Login/input_username' located by 'By.xpath: //input[@name = 'username' and @type = 'text']' not found)]]></system-out>
+      <system-err><![CDATA[2018-04-05 10:06:09 - [TEST_SUITE][FAILED] - Suiteone: Test Cases/Testing_Alert_First_page FAILED because (of) Unable to set text 'kargoqa@gmail.com' of object 'Object Repository/Page_Kargo Login/input_username' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Kargo Login/input_username' located by 'By.xpath: //input[@name = 'username' and @type = 'text']' not found)]]></system-err>
+   </testsuite>
+</testsuites>

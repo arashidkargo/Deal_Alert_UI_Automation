@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Suiteone" time="43" tests="1" failures="0" errors="0">
+   <testsuite name="Suiteone" tests="1" failures="0" errors="0" time="43" timestamp="2018-03-16 15:03:26" hostname="AbdullahRashid - 10.6.226.103" id="Test Suites/Suiteone">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/abdullahrashid/Katalon Studio/Deal_Alert_UI_testing/Reports/Suiteone/20180316_150259"/>
+         <property name="logFiles" value="/Users/abdullahrashid/Katalon Studio/Deal_Alert_UI_testing/Reports/Suiteone/20180316_150259/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="AbdullahRashid - 10.6.226.103"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="5.3.1.1"/>
+         <property name="browser" value="Firefox 58.0"/>
+         <property name="hostAddress" value="10.6.226.103"/>
+         <property name="sessionId" value="42703caf-48c5-0743-abc4-41999e9ae5b6"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Testing_Alert_First_page" classname="Test Cases/Testing_Alert_First_page" status="PASSED">
+         <system-out><![CDATA[2018-03-16 15:03:28 - [TEST_CASE][PASSED] - Test Cases/Testing_Alert_First_page: Test Cases/Testing_Alert_First_page
+
+2018-03-16 15:03:29 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-03-16 15:03:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-03-16 15:03:43 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://sso.dev.kargo.com/login?redirect_url=https:%2F%2Fdeal-alerts.dev.kargo.com' successfully
+
+2018-03-16 15:03:50 - [MESSAGE][PASSED] - Navigate to 'https://sso.dev.kargo.com/login?redirect_url=https:%2F%2Fdeal-alerts.dev.kargo.com' successfully
+
+2018-03-16 15:03:50 - [TEST_STEP][PASSED] - setText: Text 'kargoqa@gmail.com' is set on object 'Object Repository/Page_Kargo Login/input_username'
+
+2018-03-16 15:03:50 - [MESSAGE][PASSED] - Text 'kargoqa@gmail.com' is set on object 'Object Repository/Page_Kargo Login/input_username'
+
+2018-03-16 15:03:50 - [TEST_STEP][PASSED] - setText: Text 'K@rgo123!' is set on object 'Object Repository/Page_Kargo Login/input_password'
+
+2018-03-16 15:03:50 - [MESSAGE][PASSED] - Text 'K@rgo123!' is set on object 'Object Repository/Page_Kargo Login/input_password'
+
+2018-03-16 15:03:50 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Kargo Login/button_Sign In' is clicked on
+
+2018-03-16 15:03:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Kargo Login/button_Sign In' is clicked on
+
+2018-03-16 15:03:50 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/span_Deal Stopped' is clicked on
+
+2018-03-16 15:03:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/span_Deal Stopped' is clicked on
+
+2018-03-16 15:03:59 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:03:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:03:59 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/span_DSP Stopped Buying' is clicked on
+
+2018-03-16 15:04:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/span_DSP Stopped Buying' is clicked on
+
+2018-03-16 15:04:00 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:00 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/span_DSP Has Bids Below The Fl' is clicked on
+
+2018-03-16 15:04:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/span_DSP Has Bids Below The Fl' is clicked on
+
+2018-03-16 15:04:00 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:01 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/span_DSP Bidding But Not Winni' is clicked on
+
+2018-03-16 15:04:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/span_DSP Bidding But Not Winni' is clicked on
+
+2018-03-16 15:04:01 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:01 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/span_DSP Revenue Decrease' is clicked on
+
+2018-03-16 15:04:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/span_DSP Revenue Decrease' is clicked on
+
+2018-03-16 15:04:02 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:02 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/span_Deal Bidding No Impressio' is clicked on
+
+2018-03-16 15:04:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/span_Deal Bidding No Impressio' is clicked on
+
+2018-03-16 15:04:02 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:02 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/span_DSP Bid Response Decrease' is clicked on
+
+2018-03-16 15:04:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/span_DSP Bid Response Decrease' is clicked on
+
+2018-03-16 15:04:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/span_Deal Has Not Started Bidd' is clicked on
+
+2018-03-16 15:04:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/span_Deal Has Not Started Bidd' is clicked on
+
+2018-03-16 15:04:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/span_Deal Bid Response Decreas' is clicked on
+
+2018-03-16 15:04:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/span_Deal Bid Response Decreas' is clicked on
+
+2018-03-16 15:04:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/span_Deal Revenue Decrease' is clicked on
+
+2018-03-16 15:04:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/span_Deal Revenue Decrease' is clicked on
+
+2018-03-16 15:04:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/span_Deal Started Spending' is clicked on
+
+2018-03-16 15:04:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/span_Deal Started Spending' is clicked on
+
+2018-03-16 15:04:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/span_No Bid Reason - BSW Black' is clicked on
+
+2018-03-16 15:04:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/span_No Bid Reason - BSW Black' is clicked on
+
+2018-03-16 15:04:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/span_Network Inactive Deals' is clicked on
+
+2018-03-16 15:04:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/span_Network Inactive Deals' is clicked on
+
+2018-03-16 15:04:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/span_Deal New Advertiser Start' is clicked on
+
+2018-03-16 15:04:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/span_Deal New Advertiser Start' is clicked on
+
+2018-03-16 15:04:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/span_Network Blacklist - Creat' is clicked on
+
+2018-03-16 15:04:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/span_Network Blacklist - Creat' is clicked on
+
+2018-03-16 15:04:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/span_Network Subscribe Inactiv' is clicked on
+
+2018-03-16 15:04:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/span_Network Subscribe Inactiv' is clicked on
+
+2018-03-16 15:04:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/span_Network Unsubscribe Inact' is clicked on
+
+2018-03-16 15:04:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/span_Network Unsubscribe Inact' is clicked on
+
+2018-03-16 15:04:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/span_New Advertiser Started Bi' is clicked on
+
+2018-03-16 15:04:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/span_New Advertiser Started Bi' is clicked on
+
+2018-03-16 15:04:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/span_Delivery Method Bid Respo' is clicked on
+
+2018-03-16 15:04:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/span_Delivery Method Bid Respo' is clicked on
+
+2018-03-16 15:04:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deal Alerts/i_icon-home icon-24 icon--hove' is clicked on
+
+2018-03-16 15:04:09 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-03-16 15:04:10 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-03-16 15:03:26 - [TEST_SUITE][PASSED] - Suiteone: Test Cases/Testing_Alert_First_page]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

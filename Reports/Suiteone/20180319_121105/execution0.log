@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-03-19T12:11:12</date>
+  <millis>1521475872149</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/Suiteone</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">Suiteone</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/Suiteone</property>
+</record>
+<record>
+  <date>2018-03-19T12:11:12</date>
+  <millis>1521475872215</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;hostName&amp;apos; with value &amp;apos;AbdullahRashid - 10.6.226.103&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">AbdullahRashid - 10.6.226.103</property>
+</record>
+<record>
+  <date>2018-03-19T12:11:12</date>
+  <millis>1521475872216</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;os&amp;apos; with value &amp;apos;Mac OS X 64bit&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Mac OS X 64bit</property>
+</record>
+<record>
+  <date>2018-03-19T12:11:12</date>
+  <millis>1521475872217</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;hostAddress&amp;apos; with value &amp;apos;10.6.226.103&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">10.6.226.103</property>
+</record>
+<record>
+  <date>2018-03-19T12:11:12</date>
+  <millis>1521475872219</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;katalonVersion&amp;apos; with value &amp;apos;5.3.1.1&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">5.3.1.1</property>
+</record>
+<record>
+  <date>2018-03-19T12:11:13</date>
+  <millis>1521475873450</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Testing_Alert_First_page</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Testing_Alert_First_page</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Testing_Alert_First_page</property>
+  <property name="source">\\Users\\abdullahrashid\\Katalon Studio\\Deal_Alert_UI_testing\\Test Cases\\Testing_Alert_First_page.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2018-03-19T12:11:13</date>
+  <millis>1521475873558</millis>
+  <sequence>6</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Evaluating variables for test case</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-03-19T12:11:14</date>
+  <millis>1521475874631</millis>
+  <sequence>7</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">23</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2018-03-19T12:11:16</date>
+  <millis>1521475876026</millis>
+  <sequence>8</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Opening browser</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-03-19T12:11:16</date>
+  <millis>1521475876045</millis>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Firefox (headless)&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-03-19T12:11:16</date>
+  <millis>1521475876502</millis>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Action delay is set to 0 seconds</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-03-19T12:11:19</date>
+  <millis>1521475879852</millis>
+  <sequence>11</sequence>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Unable to open browser with url: &amp;apos;&amp;apos; (Root cause: org.openqa.selenium.WebDriverException: Process unexpectedly closed with status: 0\nBuild info: version: &amp;apos;3.7.1&amp;apos;, revision: &amp;apos;8a0099a&amp;apos;, time: &amp;apos;2017-11-06T21:07:36.161Z&amp;apos;\nSystem info: host: &amp;apos;KRG-71f9-IFairooz.local&amp;apos;, ip: &amp;apos;10.6.226.103&amp;apos;, os.name: &amp;apos;Mac OS X&amp;apos;, os.arch: &amp;apos;x86_64&amp;apos;, os.version: &amp;apos;10.13.3&amp;apos;, java.version: &amp;apos;1.8.0_102&amp;apos;\nDriver info: driver.version: CGeckoDriver\nremote stacktrace: stack backtrace:\n   0:        0x10e2dea8e - backtrace::backtrace::trace::h69682bcb53decaf6\n   1:        0x10e2deacc - backtrace::capture::Backtrace::new::hdc9d731a957304a6\n   2:        0x10e20f434 - webdriver::error::WebDriverError::new::h930061353eac4c81\n   3:        0x10e216dcc - geckodriver::marionette::MarionetteHandler::create_connection::hc09196342b760e35\n   4:        0x10e1f67d4 - _$LT$webdriver..server..Dispatcher$LT$T$C$$u20$U$GT$$GT$::run::hfda25a6dc0b512aa\n   5:        0x10e1ce645 - std::sys_common::backtrace::__rust_begin_short_backtrace::h95009c1d3a320838\n   6:        0x10e1d611d - std::panicking::try::do_call::h8c5f07f1fc714fb2\n   7:        0x10e38f9cc - __rust_maybe_catch_panic\n   8:        0x10e1ebf55 - _$LT$F$u20$as$u20$alloc..boxed..FnBox$LT$A$GT$$GT$::call_box::h6a96e09ff4d37bff\n   9:        0x10e38bc3b - std::sys::imp::thread::Thread::new::thread_start::h823686b907c11c46\n  10:     0x7fff762036c0 - _pthread_body\n  11:     0x7fff7620356c - _pthread_start)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-03-19T12:11:19</date>
+  <millis>1521475879854</millis>
+  <sequence>12</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-03-19T12:11:19</date>
+  <millis>1521475879858</millis>
+  <sequence>13</sequence>
+  <logger>com.kms.katalon.core.logging.KeywordLogger</logger>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Testing_Alert_First_page FAILED because (of) Unable to open browser with url: &amp;apos;&amp;apos; (Root cause: org.openqa.selenium.WebDriverException: Process unexpectedly closed with status: 0\nBuild info: version: &amp;apos;3.7.1&amp;apos;, revision: &amp;apos;8a0099a&amp;apos;, time: &amp;apos;2017-11-06T21:07:36.161Z&amp;apos;\nSystem info: host: &amp;apos;KRG-71f9-IFairooz.local&amp;apos;, ip: &amp;apos;10.6.226.103&amp;apos;, os.name: &amp;apos;Mac OS X&amp;apos;, os.arch: &amp;apos;x86_64&amp;apos;, os.version: &amp;apos;10.13.3&amp;apos;, java.version: &amp;apos;1.8.0_102&amp;apos;\nDriver info: driver.version: CGeckoDriver\nremote stacktrace: stack backtrace:\n   0:        0x10e2dea8e - backtrace::backtrace::trace::h69682bcb53decaf6\n   1:        0x10e2deacc - backtrace::capture::Backtrace::new::hdc9d731a957304a6\n   2:        0x10e20f434 - webdriver::error::WebDriverError::new::h930061353eac4c81\n   3:        0x10e216dcc - geckodriver::marionette::MarionetteHandler::create_connection::hc09196342b760e35\n   4:        0x10e1f67d4 - _$LT$webdriver..server..Dispatcher$LT$T$C$$u20$U$GT$$GT$::run::hfda25a6dc0b512aa\n   5:        0x10e1ce645 - std::sys_common::backtrace::__rust_begin_short_backtrace::h95009c1d3a320838\n   6:        0x10e1d611d - std::panicking::try::do_call::h8c5f07f1fc714fb2\n   7:        0x10e38f9cc - __rust_maybe_catch_panic\n   8:        0x10e1ebf55 - _$LT$F$u20$as$u20$alloc..boxed..FnBox$LT$A$GT$$GT$::call_box::h6a96e09ff4d37bff\n   9:        0x10e38bc3b - std::sys::imp::thread::Thread::new::thread_start::h823686b907c11c46\n  10:     0x7fff762036c0 - _pthread_body\n  11:     0x7fff7620356c - _pthread_start)</message>
+  <exception>
+    <message>com.kms.katalon.core.exception.StepFailedException: Unable to open browser with url: '' (Root cause: org.openqa.selenium.WebDriverException: Process unexpectedly closed with status: 0
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'KRG-71f9-IFairooz.local', ip: '10.6.226.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.3', java.version: '1.8.0_102'
+Driver info: driver.version: CGeckoDriver
+remote stacktrace: stack backtrace:
+   0:        0x10e2dea8e - backtrace::backtrace::trace::h69682bcb53decaf6
+   1:        0x10e2deacc - backtrace::capture::Backtrace::new::hdc9d731a957304a6
+   2:        0x10e20f434 - webdriver::error::WebDriverError::new::h930061353eac4c81
+   3:        0x10e216dcc - geckodriver::marionette::MarionetteHandler::create_connection::hc09196342b760e35
+   4:        0x10e1f67d4 - _$LT$webdriver..server..Dispatcher$LT$T$C$$u20$U$GT$$GT$::run::hfda25a6dc0b512aa
+   5:        0x10e1ce645 - std::sys_common::backtrace::__rust_begin_short_backtrace::h95009c1d3a320838
+   6:        0x10e1d611d - std::panicking::try::do_call::h8c5f07f1fc714fb2
+   7:        0x10e38f9cc - __rust_maybe_catch_panic
+   8:        0x10e1ebf55 - _$LT$F$u20$as$u20$alloc..boxed..FnBox$LT$A$GT$$GT$::call_box::h6a96e09ff4d37bff
+   9:        0x10e38bc3b - std::sys::imp::thread::Thread::new::thread_start::h823686b907c11c46
+  10:     0x7fff762036c0 - _pthread_body
+  11:     0x7fff7620356c - _pthread_start)</message>
+    <frame>
+      <class>com.kms.katalon.core.keyword.internal.KeywordMain</class>
+      <method>stepFailed</method>
+      <line>36</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain</class>
+      <method>stepFailed</method>
+      <line>65</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain</class>
+      <method>runKeyword</method>
+      <line>27</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword</class>
+      <method>openBrowser</method>
+      <line>81</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword</class>
+      <method>execute</method>
+      <line>67</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.keyword.internal.KeywordExecutor</class>
+      <method>executeKeywordForPlatform</method>
+      <line>53</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords</class>
+      <method>openBrowser</method>
+      <line>60</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$openBrowser</class>
+      <method>call</method>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.CallSiteArray</class>
+      <method>defaultCall</method>
+      <line>48</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.AbstractCallSite</class>
+      <method>call</method>
+      <line>113</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.AbstractCallSite</class>
+      <method>call</method>
+      <line>125</line>
+    </frame>
+    <frame>
+      <class>Script1521226528172</class>
+      <method>run</method>
+      <line>23</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>183</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>108</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>291</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>282</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>261</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>253</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>201</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestCaseMainPhase</method>
+      <line>121</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestSuiteMainPhase</method>
+      <line>107</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>execute</method>
+      <line>76</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>startTestSuite</method>
+      <line>99</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain$startTestSuite$0</class>
+      <method>call</method>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.CallSiteArray</class>
+      <method>defaultCall</method>
+      <line>48</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.AbstractCallSite</class>
+      <method>call</method>
+      <line>113</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.AbstractCallSite</class>
+      <method>call</method>
+      <line>141</line>
+    </frame>
+    <frame>
+      <class>TempTestSuite1521475865672</class>
+      <method>run</method>
+      <line>34</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.GroovyShell</class>
+      <method>runScriptOrMainOrTestOrRunnable</method>
+      <line>263</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.GroovyShell</class>
+      <method>run</method>
+      <line>518</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.GroovyShell</class>
+      <method>run</method>
+      <line>507</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>processOnce</method>
+      <line>653</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>run</method>
+      <line>384</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>process</method>
+      <line>370</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>processArgs</method>
+      <line>129</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>main</method>
+      <line>109</line>
+    </frame>
+    <frame>
+      <class>sun.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke0</method>
+    </frame>
+    <frame>
+      <class>sun.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>62</line>
+    </frame>
+    <frame>
+      <class>sun.reflect.DelegatingMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>43</line>
+    </frame>
+    <frame>
+      <class>java.lang.reflect.Method</class>
+      <method>invoke</method>
+      <line>498</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.tools.GroovyStarter</class>
+      <method>rootLoader</method>
+      <line>109</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.tools.GroovyStarter</class>
+      <method>main</method>
+      <line>131</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-03-19T12:11:19</date>
+  <millis>1521475879861</millis>
+  <sequence>14</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Testing_Alert_First_page</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-03-19T12:11:20</date>
+  <millis>1521475880038</millis>
+  <sequence>15</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/Suiteone</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>

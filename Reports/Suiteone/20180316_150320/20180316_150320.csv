@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Suiteone,,,2018-03-16 15:03:27,2018-03-16 15:03:46,19.005s,FAILED
+,,,,,,
+Test Cases/Testing_Alert_First_page,,,2018-03-16 15:03:29,2018-03-16 15:03:46,17.205s,FAILED
+openBrowser,,,2018-03-16 15:03:31,2018-03-16 15:03:46,15.310s,FAILED

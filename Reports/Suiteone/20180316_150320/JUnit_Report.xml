@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Suiteone" time="19" tests="0" failures="1" errors="0">
+   <testsuite name="Suiteone" tests="0" failures="1" errors="0" time="19" timestamp="2018-03-16 15:03:27" hostname="AbdullahRashid - 10.6.226.103" id="Test Suites/Suiteone">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/abdullahrashid/Katalon Studio/Deal_Alert_UI_testing/Reports/Suiteone/20180316_150320"/>
+         <property name="logFiles" value="/Users/abdullahrashid/Katalon Studio/Deal_Alert_UI_testing/Reports/Suiteone/20180316_150320/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="AbdullahRashid - 10.6.226.103"/>
+         <property name="hostAddress" value="10.6.226.103"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="5.3.1.1"/>
+      </properties>
+      <testcase name="Test Cases/Testing_Alert_First_page" classname="Test Cases/Testing_Alert_First_page" status="FAILED">
+         <failure type="FAILED" message="Unable to open browser with url: '' (Root cause: org.openqa.selenium.SessionNotCreatedException: Could not create a session: You must enable the 'Allow Remote Automation' option in Safari's Develop menu to control Safari via WebDriver. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 8.79 seconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'KRG-71f9-IFairooz.local', ip: '10.6.226.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.3', java.version: '1.8.0_102'
+Driver info: driver.version: CSafariDriver)"/>
+         <system-out><![CDATA[2018-03-16 15:03:29 - [TEST_CASE][FAILED] - Test Cases/Testing_Alert_First_page: Test Cases/Testing_Alert_First_page FAILED because (of) Unable to open browser with url: '' (Root cause: org.openqa.selenium.SessionNotCreatedException: Could not create a session: You must enable the 'Allow Remote Automation' option in Safari's Develop menu to control Safari via WebDriver. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 8.79 seconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'KRG-71f9-IFairooz.local', ip: '10.6.226.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.3', java.version: '1.8.0_102'
+Driver info: driver.version: CSafariDriver)
+
+2018-03-16 15:03:31 - [TEST_STEP][FAILED] - openBrowser: Unable to open browser with url: '' (Root cause: org.openqa.selenium.SessionNotCreatedException: Could not create a session: You must enable the 'Allow Remote Automation' option in Safari's Develop menu to control Safari via WebDriver. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 8.79 seconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'KRG-71f9-IFairooz.local', ip: '10.6.226.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.3', java.version: '1.8.0_102'
+Driver info: driver.version: CSafariDriver)
+
+2018-03-16 15:03:46 - [MESSAGE][FAILED] - Unable to open browser with url: '' (Root cause: org.openqa.selenium.SessionNotCreatedException: Could not create a session: You must enable the 'Allow Remote Automation' option in Safari's Develop menu to control Safari via WebDriver. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 8.79 seconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'KRG-71f9-IFairooz.local', ip: '10.6.226.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.3', java.version: '1.8.0_102'
+Driver info: driver.version: CSafariDriver)]]></system-out>
+         <system-err><![CDATA[2018-03-16 15:03:29 - [TEST_CASE][FAILED] - Test Cases/Testing_Alert_First_page: Test Cases/Testing_Alert_First_page FAILED because (of) Unable to open browser with url: '' (Root cause: org.openqa.selenium.SessionNotCreatedException: Could not create a session: You must enable the 'Allow Remote Automation' option in Safari's Develop menu to control Safari via WebDriver. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 8.79 seconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'KRG-71f9-IFairooz.local', ip: '10.6.226.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.3', java.version: '1.8.0_102'
+Driver info: driver.version: CSafariDriver)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-03-16 15:03:27 - [TEST_SUITE][FAILED] - Suiteone: Test Cases/Testing_Alert_First_page FAILED because (of) Unable to open browser with url: '' (Root cause: org.openqa.selenium.SessionNotCreatedException: Could not create a session: You must enable the 'Allow Remote Automation' option in Safari's Develop menu to control Safari via WebDriver. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 8.79 seconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'KRG-71f9-IFairooz.local', ip: '10.6.226.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.3', java.version: '1.8.0_102'
+Driver info: driver.version: CSafariDriver)]]></system-out>
+      <system-err><![CDATA[2018-03-16 15:03:27 - [TEST_SUITE][FAILED] - Suiteone: Test Cases/Testing_Alert_First_page FAILED because (of) Unable to open browser with url: '' (Root cause: org.openqa.selenium.SessionNotCreatedException: Could not create a session: You must enable the 'Allow Remote Automation' option in Safari's Develop menu to control Safari via WebDriver. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 8.79 seconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'KRG-71f9-IFairooz.local', ip: '10.6.226.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.3', java.version: '1.8.0_102'
+Driver info: driver.version: CSafariDriver)]]></system-err>
+   </testsuite>
+</testsuites>
