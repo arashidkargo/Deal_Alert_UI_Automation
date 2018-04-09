@@ -22,7 +22,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('deal-alerts.prod.kargo.com')
+WebUI.navigateToUrl('deal-alerts.staging.kargo.com')
 
 WebUI.setText(findTestObject('Page_Kargo Login/input_username'), 'kargoqa@gmail.com')
 
